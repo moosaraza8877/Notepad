@@ -1,0 +1,14 @@
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\bin\Debug\Notepad.exe.manifest
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\bin\Debug\Notepad.application
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.exe.manifest
+C:\Users\Moosa Raza\Documents\Programming\Notepad\Notepad\obj\Debug\Notepad.application
